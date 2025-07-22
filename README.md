@@ -12,6 +12,7 @@ This repository contains a detailed research report on **ethical hacking**, its 
 - Real-world examples and attack prevention strategies
 
 📄 **[Download Full Report](TASK-%20INTRODUCTION%20TO%20ETHICAL%20HACKING.pdf)**
+
 *(Click the link above to download the PDF)*
 
 ---
